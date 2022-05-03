@@ -1,0 +1,4 @@
+* types
+** goal
+
+   substitution -> (stream substitution)
